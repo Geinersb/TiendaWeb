@@ -1,0 +1,63 @@
+
+
+jQuery.ajax({
+	url: '',
+	type: "POST",
+	dataType: "json",
+	contentType: "application/json; charset=utf-8",
+	success: function(data){
+	
+	
+	}
+
+})
+
+
+   jQuery.ajax({
+                url: '',
+                type: "POST",
+                dataType: "json",
+                contentType: "application/json; charset=utf-8",
+                success: function (data) { },
+                beforeSend: function () { },
+                error: function () { }
+
+            })
+			
+			
+			
+			cliente id 
+AerzlW8i384fQqa6OQkdrmMeSUlBlBJv0nwgjTcZS1HOKGwW5SKrzlAuEq5scdO-bBwL1ftwDk_Z5gXe
+
+Secret
+ED8koxR32B7M-56aFbyY0PkNWjT9_j4PrbStvE0XHvuQp0IgusX9nUEVpSfuozwylG-3-hFKXrDNr7dW
+
+TIENDA
+Email ID:
+sb-vhlhn15273479@business.example.com
+clave:
+DIA5.#v_
+
+
+CLIENTE
+Email ID:
+sb-bu0mj19788869@personal.example.com
+
+Clave:
+iMrx%m7k
+
+TARJETA
+Card Type: Visa
+
+Card Number: 4032030078158129
+
+Expiration Date: 10/2026
+
+CVV: 012
+
+
+https://api-m.sandbox.paypal.com
+https://api-m.sandbox.paypal.com/v2/checkout/orders 
+
+id transaccion primera venta
+5LK489376V5694148
